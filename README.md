@@ -4,7 +4,7 @@ I created some possible solutions to the Hackerrank **Strings: Making Anagrams**
 
 ## Explanation
 
-This is a companion to my blog post: [](http://brianflove.com/)
+This is a companion to my blog post: [Hackerrank: Making Anagrams](http://brianflove.com/2016/12/03/hackerrank-making-anagrams/)
 
 ## Execute via Node.js
 
